@@ -3,12 +3,15 @@
   ![header](https://capsule-render.vercel.app/api?type=soft&height=100&color=gradient&text=vyu&section=header&reversal=false&textBg=false&desc=problem%20solver&descSize=11&descAlign=95&descAlignY=92&customColorList=9)
 </div>
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=vyu)](https://solved.ac/vyu)
-
 <hr/>
+<a target="_blank" href="https://solved.ac/vyu">
+ <img align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=vyu"/>
+</a>
+<p align="left">
+Hi there 👋<br/>
+I'm a human-being interested in
+<br/>
 
- 
 
  <div>
    
