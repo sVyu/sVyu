@@ -1,13 +1,20 @@
-<div align="center">
+<div align="center" width="100%">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hello%20%20I'm%20vyu%20😄&section=header&reversal=false&descAlign=64&descAlignY=35&descSize=19&animation=fadeIn&textBg=false&fontSize=80&rotate=0&desc=developer&customColorList=10)  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=vyu)](https://solved.ac/vyu)
+  ![header](https://capsule-render.vercel.app/api?type=soft&height=100&color=gradient&text=vyu&section=header&reversal=false&textBg=false&desc=problem%20solver&descSize=11&descAlign=95&descAlignY=92&customColorList=9)
 </div>
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=vyu)](https://solved.ac/vyu)
 
 <hr/>
 
+ 
+
+ <div>
+   
   📌 Career  
    - [Vetching](https://vetching.cc/) Front-End Intern (2023/06/01 ~ 2023/12/31)
+  </div>
 
 <hr/>
 
