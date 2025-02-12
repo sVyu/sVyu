@@ -14,13 +14,25 @@
 **I'm** a programmer, interested in **Front-End / Client Dev 🛠** <br/>
 - I used to work at 🏣📊🐕 [Vetching](https://vetching.cc/) [^1] as **Front-End Dev** with <sub>![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=#61DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)</sub>
 - currently learning on (Game) Client with engine like <sub>![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-flat&logo=unity&logoColor=white)</sub>
-
 <hr/>
 
+<div align="center">
+  <h3>🚀 Main Tech Knowledge (these days)</h3>
+  
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,ts,tailwind,unity,cs,cpp,py,git,github,notion)](https://skillicons.dev)
+
+  
+  <details>
+    <summary><h4>📚🖋 Other languages and tools (utilized at least once)</h4></summary>  
+    🛠 under construction 
+  </details>
+  
+</div>
+
 <br/>
 <br/>
 
-  📌 under construction 🛠
+  📌 
 
 [^1]: Pet SaaS base Cloud EMR/CRM Solution startup(company)<br/>I was been in charge of few major utilities like [Inspection], [Pet Information], etc and worked with energetic PC (dev) team for 7 months from 2023.06. to 2023.12.
 
