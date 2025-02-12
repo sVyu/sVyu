@@ -5,7 +5,7 @@
 
 <hr/>
 <a target="_blank" href="https://solved.ac/vyu">
- <img align="right" height="175" src="http://mazassumnida.wtf/api/generate_badge?boj=vyu"/>
+ <img align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=vyu"/>
 </a>
 
 <h3 align="center">Hi, there 👋</h3>
