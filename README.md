@@ -28,7 +28,7 @@
   </details>
 </div>
 
-[^1]: Pet SaaS based Cloud EMR/CRM Solution startup company.<br/>I was been in charge of few major utilities like [Inspection], [Pet Information], etc and worked with energetic PC (dev) team for 7 months from 2023.06. to 2023.12.
+[^1]: Pet SaaS based Cloud EMR/CRM Solution startup company.<br/>I was been in charge of few major utilities like [Inspection], [Pet Information], etc and worked with energetic PC (dev) team.
 
 > [!NOTE]
 > [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsvyu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
