@@ -20,7 +20,7 @@
   <h3>🚀 Main Tech Knowledge (these days)</h3>
   
   [![My Skills](https://skillicons.dev/icons?i=nodejs,react,js,ts,tailwind,unity,cs,cpp,py,git,github,notion)](https://skillicons.dev)
-   <details open>
+   <details>
     <summary><h4>📚🖋 Other languages and tools (utilized at least once)</h4></summary> 
     <table>
       <tr>
