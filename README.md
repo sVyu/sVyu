@@ -70,6 +70,7 @@
           <sub><img alt="mariadb"   src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" height="22"/></sub>
           <sub><img alt="mongodb"   src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" height="22"/></sub>
           <sub><img alt="postgres"  src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" height="22"/></sub>
+          <sub><img alt="supabase"  src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff" height="22"/></sub>
         </td>
       </tr>
       <tr>
@@ -104,14 +105,19 @@
           <img alt="postman"     src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="22"/>
           <img alt="wireshark"   src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" height="22"/>
           <img alt="jira"        src="https://img.shields.io/badge/jira-%230467DF.svg?style=flat&logo=jira&logoColor=white" height="22"/>
+          <img alt="slack"       src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff" height="22"/>
+          <img alt="discord"     src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" height="22"/>
         </sub></td>
       </tr>
       <tr>
         <td align="center">OS</td>
         <td><sub>
           <img alt="windows"     src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=flat&logo=windows11&logoColor=white" height="22"/>
+          <img alt="ios"         src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white" height="22"/>
+          <img alt="linux"       src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="22"/>
           <img alt="ubuntu"      src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height="22"/>
           <img alt="kali_linux"  src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=fff" height="22"/>
+          <img alt="android"     src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" height="22"/>
         </sub></td>
       </tr>
       <tr>
