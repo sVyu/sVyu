@@ -13,7 +13,7 @@
 
 **I'm** a programmer, interested in **Front-End / Client Dev 🛠** <br/>
 - I used to work at 🏣📊🐕 [Vetching](https://vetching.cc/) [^1] as **Front-End Dev** with <sub>![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=#61DAFB)</sub>
-- currently learning on React library : NextJS <sub>![Next](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)</sub>
+- currently learning on React Framework : <sub>![Next](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)</sub>
 <hr/>
 
 <div align="center">
