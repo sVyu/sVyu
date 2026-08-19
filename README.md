@@ -13,7 +13,7 @@
 
 **I'm** a programmer, interested in **Software Architecture 🛠** <br/>
 - I used to work at 🏣📊🐕 [Vetching](https://vetching.cc/) [^1] as **Front-End Dev** with <sub>![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=#61DAFB)</sub>
-- also i'd been at 🏦📊📝 [Charted](https://www.wanted.co.kr/wd/264423) [^2] as **Software Engineer** with <sub>![Next](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)</sub>
+- also was at 🏦📊📝 [Charted](https://www.wanted.co.kr/wd/264423) [^2] as **Software Engineer** with <sub>![Next](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)</sub>
 <hr/>
 
 <div align="center">
