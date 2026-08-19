@@ -147,4 +147,4 @@
 
 [^1]: Pet SaaS startup company based on Cloud EMR/CRM Solution.<br/>I was been in charge of few major utilities like [Inspection], [Pet Information], etc and worked with energetic PC (dev) team.
 
-[^2]: Financial Sass startup company with Chart Analysis & Social.<br/>The product have few exclusive functions that even big popular chart analysis product doesn't have. Launching date will be soon on 2026.
+[^2]: Financial SaaS startup company with Chart Analysis & Social.<br/>The product have few exclusive functions that even big popular chart analysis product doesn't have. Launching date will be soon on 2026.
