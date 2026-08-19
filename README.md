@@ -13,7 +13,7 @@
 
 **I'm** a programmer, interested in **Software Architecture 🛠** <br/>
 - I used to work at 🏣📊🐕 [Vetching](https://vetching.cc/) [^1] as **Front-End Dev** with <sub>![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=#61DAFB)</sub>
-- now i'm at 🏦📊📝 **Charted** [^2] as **Software Engineer** with <sub>![Next](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)</sub>
+- also i'd been at 🏦📊📝 [Charted](https://www.wanted.co.kr/wd/264423) [^2] as **Software Engineer** with <sub>![Next](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)</sub>
 <hr/>
 
 <div align="center">
@@ -136,10 +136,10 @@
 > [!NOTE]
 > `vyu` means `view` 😎
 
-[^1]: Pet SaaS based Cloud EMR/CRM Solution startup company.<br/>I was been in charge of few major utilities like [Inspection], [Pet Information], etc and worked with energetic PC (dev) team.
-
 <!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsvyu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsvyu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
 
-[^2]: Financial Chart Analysis & Social Platform, we're building up. Our product have few exclusive functions that even big popular chart analysis product doesn't have. Launching date will be soon on 2026.
+[^1]: Pet SaaS startup company based on Cloud EMR/CRM Solution.<br/>I was been in charge of few major utilities like [Inspection], [Pet Information], etc and worked with energetic PC (dev) team.
+
+[^2]: Financial Sass startup company with Chart Analysis & Social.<br/>The product have few exclusive functions that even big popular chart analysis product doesn't have. Launching date will be soon on 2026.
