@@ -135,8 +135,13 @@
 
 > [!NOTE]
 > `vyu` means `view` 😎
+> <a target="_blank" href="https://hits.sh/github.com/sVyu"><img align="right" alt="Hits" src="https://hits.sh/github.com/sVyu.svg"/></a>
 
-<!--
+<!-- applied
+   https://hits.sh/docs/#github
+  [![Hits](https://hits.sh/github.com/username.svg)](https://hits.sh/github.com/username/)
+-->
+<!-- deprecated
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsvyu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
 
